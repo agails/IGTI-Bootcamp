@@ -15,7 +15,7 @@ from datetime import datetime
 # O módulo denominado datetime é utilizado para trabalhar com datas e horas.
 # Uma das classes definidas no módulo datetime é a classe datetime.
 
-# Cadastrar as chaves de acesso do Twitter
+# Cadastrar as chaves de acesso do Twitter teste
 
 # API Key
 consumer_key = "cRtzmbxtYZEEI4YciMRZHbKsc"
